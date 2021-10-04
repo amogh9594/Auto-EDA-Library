@@ -7,3 +7,4 @@ Exploratory data analysis (EDA) is a term for certain kinds of initial analysis 
 3. Dataprep : pip install dataprep
 4. Pandas-profiling : pip install pandas-profiling
 5. Sweetviz : pip install sweetviz
+6. Mito : pip install mitoinstaller
